@@ -31,9 +31,14 @@
 
 ![image](https://user-images.githubusercontent.com/69759142/168472437-6fe79ff5-0756-4aac-95fb-a3eac3964544.png)
 
+在192.168.8.104的電腦開啟wireshark發現有大量的arp廣播
 
 ![image](https://user-images.githubusercontent.com/69759142/168472274-1787c042-c40e-4949-81b0-6960dbddb726.png)
 
+
+查看104(PC)及131(CentOS 7)的ARP table發現104的ARP table裡router的MAC address被改為103(kali)的MAC address
 ![image](https://user-images.githubusercontent.com/69759142/168472965-ffcc5075-d9d8-4ad8-aec5-c6852139052a.png)
+![image](https://user-images.githubusercontent.com/69759142/168473228-f8e1add1-019d-4d0f-9c5e-388ebc1dcfec.png)
+
 
 

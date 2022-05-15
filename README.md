@@ -46,4 +46,6 @@
 ![image](https://user-images.githubusercontent.com/69759142/168473228-f8e1add1-019d-4d0f-9c5e-388ebc1dcfec.png)
 
 
+再次執行ping並使用tcpdump發現封包流過kali
+![image](https://user-images.githubusercontent.com/69759142/168473576-068214b1-0f7c-4fbf-8ba7-d91fdcf7548c.png)
 

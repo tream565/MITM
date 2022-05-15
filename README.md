@@ -27,6 +27,10 @@
 
 23為結束PID1、PID2的Process
 
+## Normal condition
+![image](https://user-images.githubusercontent.com/69759142/168473357-84165ca4-9e56-4270-a395-b45f1fef7c75.png)
+正常情況下區網內的其他電腦進行ping時其他電腦不會收到封包
+
 ## Launch
 
 ![image](https://user-images.githubusercontent.com/69759142/168472437-6fe79ff5-0756-4aac-95fb-a3eac3964544.png)
